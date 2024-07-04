@@ -3,3 +3,4 @@
 3. git flow feature start -F 브랜치명(아무거나)
 4. 작업
 5. git flow finish 브랜치명(3번에서 만든 브랜치)
+6. git flow release start -F 20240704
